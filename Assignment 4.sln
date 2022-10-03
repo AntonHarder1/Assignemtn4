@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment 4", "Assignment 4\Assignment 4.csproj", "{50744F36-0C29-4A5F-9085-0591B40F3D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballPlayerRestTestProject", "FootballPlayerRestTestProject\FootballPlayerRestTestProject.csproj", "{2AAD333B-CFD2-4EA2-845E-68B83229AB07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50744F36-0C29-4A5F-9085-0591B40F3D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50744F36-0C29-4A5F-9085-0591B40F3D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50744F36-0C29-4A5F-9085-0591B40F3D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50744F36-0C29-4A5F-9085-0591B40F3D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AAD333B-CFD2-4EA2-845E-68B83229AB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AAD333B-CFD2-4EA2-845E-68B83229AB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AAD333B-CFD2-4EA2-845E-68B83229AB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AAD333B-CFD2-4EA2-845E-68B83229AB07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4635EBDC-DBE1-4853-B701-E73E93D415D0}
+	EndGlobalSection
+EndGlobal

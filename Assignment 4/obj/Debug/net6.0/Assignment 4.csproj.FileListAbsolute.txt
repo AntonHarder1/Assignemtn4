@@ -1,0 +1,31 @@
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\appsettings.json
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\Assignment 4.exe
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\Assignment 4.deps.json
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\Assignment 4.runtimeconfig.json
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\Assignment 4.dll
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\Assignment 4.pdb
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\Assignment 1.dll
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\IPA___API.dll
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\Assignment 1.pdb
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\bin\Debug\net6.0\IPA___API.pdb
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\Assignment 4.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\Assignment 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\Assignment 4.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\Assignment 4.AssemblyInfo.cs
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\Assignment 4.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\Assignment 4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\Assignment 4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\scopedcss\bundle\Assignment 4.styles.css
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\Assignment 4.csproj.CopyComplete
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\Assignment 4.dll
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\refint\Assignment 4.dll
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\Assignment 4.pdb
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\Assignment 4.genruntimeconfig.cache
+C:\Users\anton\source\repos\Assignment 4\Assignment 4\obj\Debug\net6.0\ref\Assignment 4.dll
